@@ -71,10 +71,11 @@ Place your reference image inside the project folder and name it `reference.jpg`
 
 ## 📂 Project Structure
 
-.
+
 ├── main.py
 ├── reference.jpg
 ├── README.md
+├── .gitattributes
 ├── LICENSE
 
 ---
